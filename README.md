@@ -3,8 +3,8 @@
 This project aims to interpolate ground temperatures along bicycle routes, providing a continuous representation of the temperature. We use the Inverse Distance Weighting (IDW) method for interpolation.
 
 Google MyMap Interactive Map: https://www.google.com/maps/d/u/0/edit?mid=1lascnAfJN3QGiN8bm1TWScEYSoeMrLU&usp=sharing
-Google Colab: https://colab.research.google.com/drive/1udHDVL32y5od8932t3QlGPHJIEbG95MP?usp=sharing
 
+Google Colab: https://colab.research.google.com/drive/1udHDVL32y5od8932t3QlGPHJIEbG95MP?usp=sharing
 
 ## Setup
 Ensure you have the required libraries installed:
