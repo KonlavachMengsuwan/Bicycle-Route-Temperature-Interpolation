@@ -126,12 +126,11 @@ with rasterio.open(
 print("Raster saved to:", output_raster_path)
 ```
 
-![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
+![Google Satellite Basemap](Google Satellite.PNG)
+![GoogleMap Basemap](GoogleMap.PNG)
+![OpenStreetMap](OSM.PNG)
+![Legend](legend.PNG)
+
 
 
 
