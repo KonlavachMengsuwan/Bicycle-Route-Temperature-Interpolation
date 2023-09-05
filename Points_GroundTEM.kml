@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Points_GroundTEM" id="Points_GroundTEM">
+	<SimpleField name="ele" type="float"></SimpleField>
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="magvar" type="float"></SimpleField>
+	<SimpleField name="geoidheigh" type="float"></SimpleField>
+	<SimpleField name="cmt" type="string"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="src" type="string"></SimpleField>
+	<SimpleField name="link1_href" type="string"></SimpleField>
+	<SimpleField name="link1_text" type="string"></SimpleField>
+	<SimpleField name="link1_type" type="string"></SimpleField>
+	<SimpleField name="link2_href" type="string"></SimpleField>
+	<SimpleField name="link2_text" type="string"></SimpleField>
+	<SimpleField name="link2_type" type="string"></SimpleField>
+	<SimpleField name="sym" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="fix" type="string"></SimpleField>
+	<SimpleField name="sat" type="float"></SimpleField>
+	<SimpleField name="hdop" type="float"></SimpleField>
+	<SimpleField name="vdop" type="float"></SimpleField>
+	<SimpleField name="pdop" type="float"></SimpleField>
+	<SimpleField name="ageofdgpsd" type="float"></SimpleField>
+	<SimpleField name="dgpsid" type="float"></SimpleField>
+	<SimpleField name="osmand_col" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="Ground_TEM" type="float"></SimpleField>
+</Schema>
+<Folder><name>Points_GroundTEM</name>
+  <Placemark>
+	<name>Near Am Senftenberger See, Niemtsch - Nimješk</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 13:47:38.000</SimpleData>
+		<SimpleData name="osmand_col">#ff9800</SimpleData>
+		<SimpleData name="ID">33</SimpleData>
+		<SimpleData name="Ground_TEM">41.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9825531,51.5029001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Fischreiherstraße, Senftenberg - Zły Komorow</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 14:01:22.000</SimpleData>
+		<SimpleData name="osmand_col">#e53935</SimpleData>
+		<SimpleData name="ID">36</SimpleData>
+		<SimpleData name="Ground_TEM">37.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9912936,51.5084166,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Am Senftenberger See, Niemtsch - Nimješk</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 13:42:49.000</SimpleData>
+		<SimpleData name="osmand_col">#73b825</SimpleData>
+		<SimpleData name="ID">32</SimpleData>
+		<SimpleData name="Ground_TEM">37.0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9824951,51.501216,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Am Senftenberger See, Niemtsch - Nimješk</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 13:37:27.000</SimpleData>
+		<SimpleData name="osmand_col">#2196f3</SimpleData>
+		<SimpleData name="ID">31</SimpleData>
+		<SimpleData name="Ground_TEM">28.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9842264,51.4993391,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dorfstraße, Niemtsch - Nimješk</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 13:30:27.000</SimpleData>
+		<SimpleData name="osmand_col">#ab47bc</SimpleData>
+		<SimpleData name="ID">30</SimpleData>
+		<SimpleData name="Ground_TEM">28.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9866535917707,51.4958576668021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dorfstraße, Niemtsch - Nimješk</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 13:25:25.000</SimpleData>
+		<SimpleData name="osmand_col">#26a69a</SimpleData>
+		<SimpleData name="ID">29</SimpleData>
+		<SimpleData name="Ground_TEM">40.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9811768,51.493655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>K 6602</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 13:18:46.000</SimpleData>
+		<SimpleData name="osmand_col">#fdd835</SimpleData>
+		<SimpleData name="ID">28</SimpleData>
+		<SimpleData name="Ground_TEM">33.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9770661441647,51.4898187880562,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>No address determined</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 12:58:55.000</SimpleData>
+		<SimpleData name="osmand_col">#e53935</SimpleData>
+		<SimpleData name="ID">23</SimpleData>
+		<SimpleData name="Ground_TEM">41.0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9998716,51.4781661,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>No address determined</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 12:53:07.000</SimpleData>
+		<SimpleData name="osmand_col">#ff9800</SimpleData>
+		<SimpleData name="ID">22</SimpleData>
+		<SimpleData name="Ground_TEM">28.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0069407,51.4799851,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>No address determined</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 12:40:20.000</SimpleData>
+		<SimpleData name="osmand_col">#73b825</SimpleData>
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="Ground_TEM">34.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0241632269585,51.4840597272897,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bergstraße, Großkoschen - Kóšyna</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 12:16:29.000</SimpleData>
+		<SimpleData name="osmand_col">#2196f3</SimpleData>
+		<SimpleData name="ID">15</SimpleData>
+		<SimpleData name="Ground_TEM">47.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0547622697457,51.4953450178226,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Mühlgraben 10, Großkoschen - Kóšyna</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 12:08:55.000</SimpleData>
+		<SimpleData name="osmand_col">#ab47bc</SimpleData>
+		<SimpleData name="ID">14</SimpleData>
+		<SimpleData name="Ground_TEM">53.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0603810708735,51.4968429907643,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MS &quot;Aqua Phönix&quot;</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 11:58:41.000</SimpleData>
+		<SimpleData name="osmand_col">#26a69a</SimpleData>
+		<SimpleData name="ID">12</SimpleData>
+		<SimpleData name="Ground_TEM">52.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0638468865467,51.4997617938464,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elsterstraße, Kleinkoschen - Kóšynka</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 11:45:18.000</SimpleData>
+		<SimpleData name="osmand_col">#fdd835</SimpleData>
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="Ground_TEM">40.7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0601547,51.5084068,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Buchwalder Straße, Buchwalde - Bukojna</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 11:22:22.000</SimpleData>
+		<SimpleData name="osmand_col">#e53935</SimpleData>
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="Ground_TEM">39.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0261103,51.5119304,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Buchwalder Straße (Buchwalde - Bukojna) 8b, Senftenberg - Zły Komorow</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/22 11:07:40.000</SimpleData>
+		<SimpleData name="osmand_col">#ff9800</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="Ground_TEM">44.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0127539,51.5131087,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Buchwalder Straße (Buchwalde - Bukojna) 40b, Senftenberg - Zły Komorow</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/19 09:37:38.000</SimpleData>
+		<SimpleData name="osmand_col">#73b825</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="Ground_TEM">36.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0200005,51.5122185,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Stadthafen, Senftenberg - Zły Komorow</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/19 09:37:01.000</SimpleData>
+		<SimpleData name="osmand_col">#2196f3</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Ground_TEM">46.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0058336,51.5127831,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Mühlgraben, Großkoschen - Kóšyna</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/19 09:33:17.000</SimpleData>
+		<SimpleData name="osmand_col">#ab47bc</SimpleData>
+		<SimpleData name="ID">13</SimpleData>
+		<SimpleData name="Ground_TEM">51.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0616953036885,51.4991320280685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kleinkoschener Dorfstraße, Kleinkoschen - Kóšynka</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/19 09:32:16.000</SimpleData>
+		<SimpleData name="osmand_col">#26a69a</SimpleData>
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="Ground_TEM">55.0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0625,51.504715,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elsterstraße, Kleinkoschen - Kóšynka</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/19 09:31:05.000</SimpleData>
+		<SimpleData name="osmand_col">#e53935</SimpleData>
+		<SimpleData name="ID">9</SimpleData>
+		<SimpleData name="Ground_TEM">54.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0557987884759,51.5107357079813,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Elsterstraße, Kleinkoschen - Kóšynka</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/19 09:29:32.000</SimpleData>
+		<SimpleData name="osmand_col">#ff9800</SimpleData>
+		<SimpleData name="ID">8</SimpleData>
+		<SimpleData name="Ground_TEM">33.7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0474997,51.5108337,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Elsterstraße, Kleinkoschen - Kóšynka</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/19 09:28:12.000</SimpleData>
+		<SimpleData name="osmand_col">#73b825</SimpleData>
+		<SimpleData name="ID">7</SimpleData>
+		<SimpleData name="Ground_TEM">36.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0430491873146,51.5110653181324,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Elsterstraße, Kleinkoschen - Kóšynka</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/19 09:26:15.000</SimpleData>
+		<SimpleData name="osmand_col">#2196f3</SimpleData>
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="Ground_TEM">26.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.039737657244,51.5112672920121,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Elsterstraße (Brieske - Brjazki), Senftenberg - Zły Komorow</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/19 09:24:25.000</SimpleData>
+		<SimpleData name="osmand_col">#ab47bc</SimpleData>
+		<SimpleData name="ID">5</SimpleData>
+		<SimpleData name="Ground_TEM">44.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0352759981357,51.5113514477954,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Straße der Energie, Senftenberg - Zły Komorow</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 15:20:42.000</SimpleData>
+		<SimpleData name="osmand_col">#26a69a</SimpleData>
+		<SimpleData name="ID">38</SimpleData>
+		<SimpleData name="Ground_TEM">24.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0007749321989,51.5122449016941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Seeadlerstraße, Senftenberg - Zły Komorow</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 15:16:04.000</SimpleData>
+		<SimpleData name="osmand_col">#fdd835</SimpleData>
+		<SimpleData name="ID">37</SimpleData>
+		<SimpleData name="Ground_TEM">27.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9958801,51.5110299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Stralsunder Straße (Niemtsch - Nimješk), Senftenberg - Zły Komorow</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 15:09:53.000</SimpleData>
+		<SimpleData name="osmand_col">#e53935</SimpleData>
+		<SimpleData name="ID">35</SimpleData>
+		<SimpleData name="Ground_TEM">25.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9878401883144,51.5068406978135,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Stralsunder Straße (Niemtsch - Nimješk), Senftenberg - Zły Komorow</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 15:02:37.000</SimpleData>
+		<SimpleData name="osmand_col">#ff9800</SimpleData>
+		<SimpleData name="ID">34</SimpleData>
+		<SimpleData name="Ground_TEM">28.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9843898012014,51.5053076599621,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near K 6602</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 14:41:52.000</SimpleData>
+		<SimpleData name="osmand_col">#73b825</SimpleData>
+		<SimpleData name="ID">27</SimpleData>
+		<SimpleData name="Ground_TEM">33.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9799337524787,51.4863655957506,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Zum Schullandheim, Niemtsch - Nimješk</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 14:35:08.000</SimpleData>
+		<SimpleData name="osmand_col">#2196f3</SimpleData>
+		<SimpleData name="ID">26</SimpleData>
+		<SimpleData name="Ground_TEM">47.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9813298034163,51.4813494435371,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>No address determined</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 14:16:29.000</SimpleData>
+		<SimpleData name="osmand_col">#26a69a</SimpleData>
+		<SimpleData name="ID">24</SimpleData>
+		<SimpleData name="Ground_TEM">29.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9981731159003,51.4780566147518,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>No address determined</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 13:58:09.000</SimpleData>
+		<SimpleData name="osmand_col">#e53935</SimpleData>
+		<SimpleData name="ID">19</SimpleData>
+		<SimpleData name="Ground_TEM">34.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0301438979543,51.4875045040171,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>No address determined</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 14:08:46.000</SimpleData>
+		<SimpleData name="osmand_col">#fdd835</SimpleData>
+		<SimpleData name="ID">21</SimpleData>
+		<SimpleData name="Ground_TEM">32.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.016634089551,51.4815070018647,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>K 6602</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 14:29:01.000</SimpleData>
+		<SimpleData name="osmand_col">#ab47bc</SimpleData>
+		<SimpleData name="ID">25</SimpleData>
+		<SimpleData name="Ground_TEM">35.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9837768665802,51.4784353157764,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Near Straße zur Südsee, Großkoschen - Kóšyna</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 13:51:53.000</SimpleData>
+		<SimpleData name="osmand_col">#ff9800</SimpleData>
+		<SimpleData name="ID">18</SimpleData>
+		<SimpleData name="Ground_TEM">32.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0349676,51.4895205,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Straße zur Südsee, Großkoschen - Kóšyna</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 13:45:49.000</SimpleData>
+		<SimpleData name="osmand_col">#73b825</SimpleData>
+		<SimpleData name="ID">17</SimpleData>
+		<SimpleData name="Ground_TEM">46.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0413282015473,51.4903882421896,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grüner Weg, Großkoschen - Kóšyna</name>
+	<ExtendedData><SchemaData schemaUrl="#Points_GroundTEM">
+		<SimpleData name="time">2023/08/18 13:39:21.000</SimpleData>
+		<SimpleData name="osmand_col">#2196f3</SimpleData>
+		<SimpleData name="ID">16</SimpleData>
+		<SimpleData name="Ground_TEM">31.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0490858,51.4927202,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
