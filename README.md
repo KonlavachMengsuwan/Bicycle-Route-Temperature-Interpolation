@@ -126,7 +126,7 @@ with rasterio.open(
 print("Raster saved to:", output_raster_path)
 ```
 
-![Google Satellite](Google Satellite.PNG)
+![Google Satellite Basemap](Google Satellite.PNG)
 ![GoogleMap Basemap](GoogleMap.PNG)
 ![OpenStreetMap](OSM.PNG)
 ![Legend](legend.PNG)
